@@ -7,8 +7,8 @@ http://188.72.5.30:8080/alsard/555666/5174
 http://188.72.5.30:8080/alsard/555666/5202
 #EXTINF:0,CHANNEL8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:0,Zoom Nwes HD
-https://live.zoomnews.info/live/Zoom/index.m3u8
+#EXTINF:0,AVA HD
+http://188.72.5.30:8080/alsard/555666/5257
 #EXTINF:0,KurdSat news HD
 http://188.72.5.30:8080/alsard/555666/5186
 #EXTINF:0,KurdistanTV HD
@@ -23,8 +23,8 @@ http://188.72.5.30:8080/alsard/555666/6157
 http://188.72.5.30:8080/alsard/555666/5168
 #EXTINF:0,KurdSat HD
 http://188.72.5.30:8080/alsard/555666/5185
-#EXTINF:0,AVA HD
-http://188.72.5.30:8080/alsard/555666/5257
+#EXTINF:0,Zoom Nwes HD
+https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:0,KurdMax HD
 http://188.72.5.30:8080/alsard/555666/5264
 #EXTINF:0,NRT2 HD
